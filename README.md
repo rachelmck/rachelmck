@@ -1,16 +1,14 @@
-## Hi there 👋
+## About Me!
 
-<!--
-**rachelmck/rachelmck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Assignment 1**
 
-Here are some ideas to get you started:
+Here is some fun information about myself:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- My name is Rachel McKinnon
+- ![This is me](Assignment1-1.JPG)
+- I am majoring in Neuroscience
+- This is my third year
+- I enrolled in this class because I have an interest in research and data science
+- I decided to major in neuroscience because there is so much that we don't know about our own brains and I find that fascinating
+- Post-grad, I will definitely want to continue my education. Not quite sure what that may entail.
+
